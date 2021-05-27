@@ -1,5 +1,5 @@
 # Pig-Game
-Pig Game Design using JavaScript
+Pig Game Design using JavaScript 😵‍💫
 
 
 rules :{
